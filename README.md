@@ -1,4 +1,7 @@
 # Prime Numbers
+## Description
+
+Prime numbers offers various tools for working with prime numbers.
 
 ## Commands
 
